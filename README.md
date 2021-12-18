@@ -7,10 +7,10 @@ Correos:  luis14oriente@gmail.com	 jaihdz9826@gmail.com   guevaragalvanpedro@gma
 Pasos para la ejecución: 
 
 1. Instalar las librerias: 
-	sudo apt-get install python 
-	sudo apt-get install python-pygame 
-	sudo apt-get install python-tk 
-	pip3 install python-vlc
+	sudo apt-get install python ,  
+	sudo apt-get install python-pygamem , 
+	sudo apt-get install python-tk ,
+	pip3 install python-vlc ,
 
 2.  Descargue la carpeta .zip del repositorio:
     git clone https://github.com/LuisCadenaCampos/Multimedia
